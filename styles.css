@@ -1,1 +1,16 @@
 /* your code */
+#stas{
+	width:100vw;
+	height:50vh;
+}
+#title{
+	color:blue;
+	background:yellow;
+}
+.bod{
+	color:red;
+	background:green;
+}
+.body{
+	color:red;
+	background:grey;
